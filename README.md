@@ -1,6 +1,5 @@
 # MEANjs-Blog-App
 
-# MEANBlog
 A blog application with user authentication using the MEAN stack and MEAN.js.(MongoDB, Express, AngularJS, Node.js)
 
 ## Prerequisites
